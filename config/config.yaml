@@ -1,0 +1,3 @@
+llm:
+  model: "llama-3.1-8b-instant"
+  provider: "groq"
